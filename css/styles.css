@@ -3524,6 +3524,12 @@ img.u-pull-left {
     color          : var(--color-text-light);
     margin-top     : -.2rem;
 }
+.timeline__cgpa {
+    margin-top: 4px;
+    font-size: 0.95rem;
+    color: #666;
+    font-weight: 500;
+}
 
 /* ------------------------------------------------------------------- 
  * responsive:
